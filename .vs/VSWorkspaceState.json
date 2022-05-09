@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PruebaClaseEntorno",
+    "\\PruebaClaseEntorno\\bin",
+    "\\PruebaClaseEntorno\\bin\\Debug",
+    "\\PruebaClaseEntorno\\bin\\Release",
+    "\\PruebaClaseEntorno\\obj",
+    "\\PruebaClaseEntorno\\obj\\Debug",
+    "\\PruebaClaseEntorno\\obj\\Debug\\TempPE"
   ],
   "PreviewInSolutionExplorer": false
 }
